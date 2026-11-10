@@ -1,0 +1,34 @@
+{
+ "format": 1,
+ "id": "sovet-modelej",
+ "version": "0.1.0",
+ "title": {
+  "ru": "Совет моделей",
+  "en": "Council of models",
+  "uz": "Modellar kengashi"
+ },
+ "requires_core": "1.7.6",
+ "built_with_core": "1.7.6",
+ "core_skills": [
+  "obratnaya-svyaz"
+ ],
+ "first_tasks": {
+  "ru": [
+   "Какое решение вы сейчас принимаете — одной фразой, и что будет, если его не принять?",
+   "Что уже известно: варианты, которые вы видите, сроки, деньги, люди — коротко, как есть.",
+   "Какой голос совета оказался ближе всего и что вы проверите первым?"
+  ],
+  "en": [
+   "What decision are you making now — in one sentence, and what happens if you don't make it?",
+   "What is already known: the options you see, time, money, people — briefly, as it is.",
+   "Which voice of the council was closest, and what will you check first?"
+  ]
+ },
+ "files": {
+  "LICENSE.md": "0bc8080d0597ed2b87600e3b938236aafba20ea732f6049907f0fc7df78d3f79",
+  "README.md": "4aa22878cca262ee856e01066e579d3e46f7ec6e581a8cfbe4fd3f21d09d621c",
+  "SAMPLE.md": "c5323166d0b30a2b3dcb6091ad5c9f82987a201f8b6093903b3860a8193b32ed",
+  "TUTORIAL.md": "d772362f1e877e48af123b791adebd875c54c0fd27650708ee5ea39f3b110e3e",
+  "skills/sovet-modelej-razbor/SKILL.md": "884dd4a98b1346b484ac95683184e67becf56371575ff6ebeabb72e9ee457067"
+ }
+}

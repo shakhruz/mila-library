@@ -1,0 +1,34 @@
+{
+ "format": 1,
+ "id": "biznes-profil",
+ "version": "0.1.0",
+ "title": {
+  "ru": "Бизнес-профиль",
+  "en": "Business profile",
+  "uz": "Biznes profili"
+ },
+ "requires_core": "1.7.6",
+ "built_with_core": "1.7.6",
+ "core_skills": [
+  "pd-vault",
+  "cards"
+ ],
+ "first_tasks": {
+  "ru": [
+   "Кто ваш клиент — опишите одного живого, как будто он сейчас напротив.",
+   "Чем вы отличаетесь от тех, к кому он мог бы пойти вместо вас?",
+   "Какие цели у дела на год — одна-две, своими словами."
+  ],
+  "en": [
+   "Who is your customer — describe one real person as if they were in front of you.",
+   "How are you different from those they could go to instead?",
+   "What are the business's goals for the year — one or two, in your words."
+  ]
+ },
+ "files": {
+  "README.md": "12e949a1524cfb45ebacc16a3c16c2203b23bb9396229c1776ee846c0784a237",
+  "SAMPLE.md": "29084e9772f1e7c54be3bb20d52c60cbe27bd86a24d8c44928856a2ba27a7573",
+  "TUTORIAL.md": "c0355d44713adb2b2e4f2fdfc0e94deeec75d2983141d6ef2c40aed8492a3652",
+  "skills/biznes-profil-sbor/SKILL.md": "d2288e58457fdbb50b83581426bb2b39c7ce7fe218498dc920bb817a1ec9ee74"
+ }
+}

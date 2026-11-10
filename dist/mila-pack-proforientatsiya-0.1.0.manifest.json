@@ -1,0 +1,34 @@
+{
+ "format": 1,
+ "id": "proforientatsiya",
+ "version": "0.1.0",
+ "title": {
+  "ru": "Профориентация",
+  "en": "Career direction",
+  "uz": "Kasb tanlash"
+ },
+ "requires_core": "1.7.6",
+ "built_with_core": "1.7.6",
+ "core_skills": [
+  "pd-vault",
+  "obratnaya-svyaz"
+ ],
+ "first_tasks": {
+  "ru": [
+   "Расскажите, чем вы занимались и что из этого вам нравилось.",
+   "Что вас выматывает — в работе или в делах вообще?",
+   "Чего вы хотите через год — как бы выглядел хороший день?"
+  ],
+  "en": [
+   "Tell me what you have done and what of it you liked.",
+   "What drains you — at work or in things in general?",
+   "What do you want a year from now — what would a good day look like?"
+  ]
+ },
+ "files": {
+  "README.md": "ecc399bf1d3277576549d4d3711ee09a0da3ea45bb32876464557f09b2e31be7",
+  "SAMPLE.md": "2288a07ac510c49aae128c05950dc4831c24470808fb5f796a123bfe113e1f61",
+  "TUTORIAL.md": "c6331fedb8c5e27491898faa936857245e668e859303538b34836c18eb89aff7",
+  "skills/proforientatsiya-razbor/SKILL.md": "81c0b92992ee16ae6707992b3eb454bae40b07d34fac1f5a7883348b49d3099a"
+ }
+}

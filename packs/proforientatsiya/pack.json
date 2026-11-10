@@ -1,0 +1,41 @@
+{
+ "id": "proforientatsiya",
+ "kind": "addon",
+ "version": "0.1.0",
+ "title": {
+  "ru": "Профориентация",
+  "en": "Career direction",
+  "uz": "Kasb tanlash"
+ },
+ "category": "znakomstvo",
+ "free": true,
+ "for_whom": {
+  "ru": "Если вы не знаете, чем заняться, или думаете сменить работу",
+  "en": "If you are not sure what to do or are thinking of changing jobs",
+  "uz": "Agar nima bilan shug‘ullanishni bilmasangiz yoki ishni almashtirmoqchi bo‘lsangiz"
+ },
+ "requires_core": "1.7.6",
+ "core_skills": [
+  "pd-vault",
+  "obratnaya-svyaz"
+ ],
+ "skills": [
+  "proforientatsiya-razbor"
+ ],
+ "docs": [
+  "TUTORIAL.md",
+  "SAMPLE.md"
+ ],
+ "first_tasks": {
+  "ru": [
+   "Расскажите, чем вы занимались и что из этого вам нравилось.",
+   "Что вас выматывает — в работе или в делах вообще?",
+   "Чего вы хотите через год — как бы выглядел хороший день?"
+  ],
+  "en": [
+   "Tell me what you have done and what of it you liked.",
+   "What drains you — at work or in things in general?",
+   "What do you want a year from now — what would a good day look like?"
+  ]
+ }
+}

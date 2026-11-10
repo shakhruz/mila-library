@@ -1,0 +1,41 @@
+{
+ "id": "biznes-profil",
+ "kind": "addon",
+ "version": "0.1.0",
+ "title": {
+  "ru": "Бизнес-профиль",
+  "en": "Business profile",
+  "uz": "Biznes profili"
+ },
+ "category": "biznes",
+ "free": true,
+ "for_whom": {
+  "ru": "Если у вас есть дело и вы хотите, чтобы я знала его так же хорошо, как вы",
+  "en": "If you have a business and want me to know it as well as you do",
+  "uz": "Agar ishingiz bo‘lsa va men uni siz kabi yaxshi bilishimni xohlasangiz"
+ },
+ "requires_core": "1.7.6",
+ "core_skills": [
+  "pd-vault",
+  "cards"
+ ],
+ "skills": [
+  "biznes-profil-sbor"
+ ],
+ "docs": [
+  "TUTORIAL.md",
+  "SAMPLE.md"
+ ],
+ "first_tasks": {
+  "ru": [
+   "Кто ваш клиент — опишите одного живого, как будто он сейчас напротив.",
+   "Чем вы отличаетесь от тех, к кому он мог бы пойти вместо вас?",
+   "Какие цели у дела на год — одна-две, своими словами."
+  ],
+  "en": [
+   "Who is your customer — describe one real person as if they were in front of you.",
+   "How are you different from those they could go to instead?",
+   "What are the business's goals for the year — one or two, in your words."
+  ]
+ }
+}

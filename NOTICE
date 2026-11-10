@@ -1,0 +1,10 @@
+Mila Library
+Copyright 2026 MILAGPT cooperative / Shakhruz Ashirov
+
+Licensed under the Apache License, Version 2.0 (see LICENSE).
+
+Third-party material
+
+The packs packs/audit-vnimaniya and packs/sovet-modelej are based on
+Attention OS by Adrian Avendano — https://github.com/amonter/Attention-OS —
+released under the MIT License. The MIT notice is kept in each pack's LICENSE.md.

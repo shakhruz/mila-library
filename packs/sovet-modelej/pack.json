@@ -1,0 +1,42 @@
+{
+ "id": "sovet-modelej",
+ "kind": "addon",
+ "version": "0.1.0",
+ "title": {
+  "ru": "Совет моделей",
+  "en": "Council of models",
+  "uz": "Modellar kengashi"
+ },
+ "category": "razminka",
+ "free": true,
+ "for_whom": {
+  "ru": "Если стоите перед решением и хотите услышать несколько разных взглядов до того, как выбрать",
+  "en": "If you face a decision and want several different views before you choose",
+  "uz": "Agar qaror oldida tursangiz va tanlashdan oldin bir necha xil fikrni eshitmoqchi bo‘lsangiz"
+ },
+ "requires_core": "1.7.6",
+ "core_skills": [
+  "obratnaya-svyaz"
+ ],
+ "skills": [
+  "sovet-modelej-razbor"
+ ],
+ "docs": [
+  "TUTORIAL.md",
+  "SAMPLE.md",
+  "LICENSE.md"
+ ],
+ "credit": "По мотивам Attention OS — Adrian Avendano, MIT · https://github.com/amonter/Attention-OS",
+ "first_tasks": {
+  "ru": [
+   "Какое решение вы сейчас принимаете — одной фразой, и что будет, если его не принять?",
+   "Что уже известно: варианты, которые вы видите, сроки, деньги, люди — коротко, как есть.",
+   "Какой голос совета оказался ближе всего и что вы проверите первым?"
+  ],
+  "en": [
+   "What decision are you making now — in one sentence, and what happens if you don't make it?",
+   "What is already known: the options you see, time, money, people — briefly, as it is.",
+   "Which voice of the council was closest, and what will you check first?"
+  ]
+ }
+}

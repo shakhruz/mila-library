@@ -1,0 +1,86 @@
+{
+ "built": "2026-11-10",
+ "packs": [
+  {
+   "archive": "dist/mila-pack-audit-vnimaniya-0.1.0.zip",
+   "category": "razminka",
+   "for_whom": {
+    "en": "If your attention seems to go everywhere except your main project",
+    "ru": "Если кажется, что внимание расходится на всё, кроме главного дела",
+    "uz": "Agar diqqatingiz asosiy ishingizdan boshqa hamma narsaga ketayotgandek tuyulsa"
+   },
+   "free": true,
+   "id": "audit-vnimaniya",
+   "needs_packs": [],
+   "requires_core": "1.7.6",
+   "sha256": "f085e2ede31145685b734ce9e4ca2b5d2e7dfbaa8f96fb4e1acb4e78e1664da0",
+   "title": {
+    "en": "Attention audit",
+    "ru": "Аудит внимания",
+    "uz": "Diqqat auditi"
+   },
+   "version": "0.1.0"
+  },
+  {
+   "archive": "dist/mila-pack-biznes-profil-0.1.0.zip",
+   "category": "biznes",
+   "for_whom": {
+    "en": "If you have a business and want me to know it as well as you do",
+    "ru": "Если у вас есть дело и вы хотите, чтобы я знала его так же хорошо, как вы",
+    "uz": "Agar ishingiz bo‘lsa va men uni siz kabi yaxshi bilishimni xohlasangiz"
+   },
+   "free": true,
+   "id": "biznes-profil",
+   "needs_packs": [],
+   "requires_core": "1.7.6",
+   "sha256": "88842bb6354995f0406620152c647250a65a49eec309c623448d43450eec171c",
+   "title": {
+    "en": "Business profile",
+    "ru": "Бизнес-профиль",
+    "uz": "Biznes profili"
+   },
+   "version": "0.1.0"
+  },
+  {
+   "archive": "dist/mila-pack-proforientatsiya-0.1.0.zip",
+   "category": "znakomstvo",
+   "for_whom": {
+    "en": "If you are not sure what to do or are thinking of changing jobs",
+    "ru": "Если вы не знаете, чем заняться, или думаете сменить работу",
+    "uz": "Agar nima bilan shug‘ullanishni bilmasangiz yoki ishni almashtirmoqchi bo‘lsangiz"
+   },
+   "free": true,
+   "id": "proforientatsiya",
+   "needs_packs": [],
+   "requires_core": "1.7.6",
+   "sha256": "7dda5f28d543d08256cce9b990fc684c880808a2ff5140cfc9a584a8f335f7d5",
+   "title": {
+    "en": "Career direction",
+    "ru": "Профориентация",
+    "uz": "Kasb tanlash"
+   },
+   "version": "0.1.0"
+  },
+  {
+   "archive": "dist/mila-pack-sovet-modelej-0.1.0.zip",
+   "category": "razminka",
+   "for_whom": {
+    "en": "If you face a decision and want several different views before you choose",
+    "ru": "Если стоите перед решением и хотите услышать несколько разных взглядов до того, как выбрать",
+    "uz": "Agar qaror oldida tursangiz va tanlashdan oldin bir necha xil fikrni eshitmoqchi bo‘lsangiz"
+   },
+   "free": true,
+   "id": "sovet-modelej",
+   "needs_packs": [],
+   "requires_core": "1.7.6",
+   "sha256": "90cb32ac75841ef100749bffb5fb4d5bc86d5adeef1795c1b199327007441154",
+   "title": {
+    "en": "Council of models",
+    "ru": "Совет моделей",
+    "uz": "Modellar kengashi"
+   },
+   "version": "0.1.0"
+  }
+ ],
+ "v": 1
+}

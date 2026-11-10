@@ -1,0 +1,34 @@
+{
+ "format": 1,
+ "id": "audit-vnimaniya",
+ "version": "0.1.0",
+ "title": {
+  "ru": "Аудит внимания",
+  "en": "Attention audit",
+  "uz": "Diqqat auditi"
+ },
+ "requires_core": "1.7.6",
+ "built_with_core": "1.7.6",
+ "core_skills": [
+  "obratnaya-svyaz"
+ ],
+ "first_tasks": {
+  "ru": [
+   "Каким главным делом вы сейчас заняты — одной фразой?",
+   "Что вы регулярно читали, смотрели и слушали за последние 7 дней — 5–15 пунктов, по одному в строке; можно добавить, что чувствовали.",
+   "Что из зеркала совпало с тем, как вы это видите сами?"
+  ],
+  "en": [
+   "What main project are you working on now — in one sentence?",
+   "What did you regularly read, watch and listen to over the last 7 days — 5–15 items, one per line; add a feeling if you like.",
+   "What in the mirror matches how you see it yourself?"
+  ]
+ },
+ "files": {
+  "LICENSE.md": "6ac1b12ab06c6d09da137f1ef713b48b4e29cf6d9df1668476be61ef2db72055",
+  "README.md": "1923dda0e54347ccdd76b23d98cc004ba93324157310d86aefe7e18b761b96ee",
+  "SAMPLE.md": "5c5044951c09340cd01692115e7532d68f5a219a8f873d446cfdff22166cb492",
+  "TUTORIAL.md": "6b2bec751d9152d3187d6106c4ea05ba3dad426ceb17b498d41a3b2750134e3a",
+  "skills/audit-vnimaniya-zerkalo/SKILL.md": "a53735d6a72ffb517333a8bb020293116f70110e16adf6f2992edc8f36ed725b"
+ }
+}

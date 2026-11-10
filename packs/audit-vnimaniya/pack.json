@@ -1,0 +1,42 @@
+{
+ "id": "audit-vnimaniya",
+ "kind": "addon",
+ "version": "0.1.0",
+ "title": {
+  "ru": "Аудит внимания",
+  "en": "Attention audit",
+  "uz": "Diqqat auditi"
+ },
+ "category": "razminka",
+ "free": true,
+ "for_whom": {
+  "ru": "Если кажется, что внимание расходится на всё, кроме главного дела",
+  "en": "If your attention seems to go everywhere except your main project",
+  "uz": "Agar diqqatingiz asosiy ishingizdan boshqa hamma narsaga ketayotgandek tuyulsa"
+ },
+ "requires_core": "1.7.6",
+ "core_skills": [
+  "obratnaya-svyaz"
+ ],
+ "skills": [
+  "audit-vnimaniya-zerkalo"
+ ],
+ "docs": [
+  "TUTORIAL.md",
+  "SAMPLE.md",
+  "LICENSE.md"
+ ],
+ "credit": "По мотивам Attention OS — Adrian Avendano, MIT · https://github.com/amonter/Attention-OS",
+ "first_tasks": {
+  "ru": [
+   "Каким главным делом вы сейчас заняты — одной фразой?",
+   "Что вы регулярно читали, смотрели и слушали за последние 7 дней — 5–15 пунктов, по одному в строке; можно добавить, что чувствовали.",
+   "Что из зеркала совпало с тем, как вы это видите сами?"
+  ],
+  "en": [
+   "What main project are you working on now — in one sentence?",
+   "What did you regularly read, watch and listen to over the last 7 days — 5–15 items, one per line; add a feeling if you like.",
+   "What in the mirror matches how you see it yourself?"
+  ]
+ }
+}
