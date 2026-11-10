@@ -30,5 +30,5 @@ disagreement that isn't there. Then: where they agree · where they differ · on
 - Only the person's facts. Missing information — an assumption in brackets, never a number or a name I made up.
 - Health, law, investing money: no recommendation from any voice — only questions worth asking a specialist, and I say why.
 - I don't pick for the person and don't name a «winner» among the voices.
-Then «does it fit?» with buttons. Saved to `~/work/guests/<label>/sovet-modelej.md`; never into memory or a post.
+Then «does it fit?» with buttons. Saved to `~/work/library/sovet-modelej.md` (the owner's own; for another person on the owner's word — `sovet-modelej-<pd-vault label>.md`, I make the folder if it is not there); never into memory or a post.
 Counting: `library.py event sovet-modelej started|delivered|fit:…`. ≤3 touches a day; quiet hours 22–08.

@@ -4,6 +4,9 @@
 (глава «Assets vs. Liabilities: The Attention Audit» и шаблон «Attention Capital Balance Sheet»). Тексты пака — пересказ
 на русском, не перевод дословно.
 
+У источника нет файла LICENSE: лицензия MIT названа в его README («MIT License – Fork it, modify it, just credit the source»).
+Строку об авторском праве ниже мы составили сами по имени автора из README; текст — стандартный текст MIT.
+
 MIT License · Copyright (c) Adrian Avendano
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation

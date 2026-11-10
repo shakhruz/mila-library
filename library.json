@@ -13,7 +13,7 @@
    "id": "audit-vnimaniya",
    "needs_packs": [],
    "requires_core": "1.7.6",
-   "sha256": "f085e2ede31145685b734ce9e4ca2b5d2e7dfbaa8f96fb4e1acb4e78e1664da0",
+   "sha256": "f75848c09100d9d1aba6e452c310bfa01842e52e8e9b05e0c770b1f6adb5d44c",
    "title": {
     "en": "Attention audit",
     "ru": "Аудит внимания",
@@ -53,7 +53,7 @@
    "id": "proforientatsiya",
    "needs_packs": [],
    "requires_core": "1.7.6",
-   "sha256": "7dda5f28d543d08256cce9b990fc684c880808a2ff5140cfc9a584a8f335f7d5",
+   "sha256": "80c0443e80456119de28f05139e8255bdbb9e67f57082c3ebd98aa277c82025e",
    "title": {
     "en": "Career direction",
     "ru": "Профориентация",
@@ -65,15 +65,15 @@
    "archive": "dist/mila-pack-sovet-modelej-0.1.0.zip",
    "category": "razminka",
    "for_whom": {
-    "en": "If you face a decision and want several different views before you choose",
-    "ru": "Если стоите перед решением и хотите услышать несколько разных взглядов до того, как выбрать",
-    "uz": "Agar qaror oldida tursangiz va tanlashdan oldin bir necha xil fikrni eshitmoqchi bo‘lsangiz"
+    "en": "If you face a decision and want four different views on it — all four are mine, no other models are called",
+    "ru": "Если стоите перед решением и хотите четыре разных взгляда на него — все четыре веду я сама, без других моделей",
+    "uz": "Agar qaror oldida tursangiz va unga to‘rt xil nazar kerak bo‘lsa — to‘rttasini ham o‘zim yuritaman, boshqa modellarsiz"
    },
    "free": true,
    "id": "sovet-modelej",
    "needs_packs": [],
    "requires_core": "1.7.6",
-   "sha256": "90cb32ac75841ef100749bffb5fb4d5bc86d5adeef1795c1b199327007441154",
+   "sha256": "5cb15079d6442718a70597ee13bef5b8f8f5534d06eef63794a8cbd7e197e862",
    "title": {
     "en": "Council of models",
     "ru": "Совет моделей",

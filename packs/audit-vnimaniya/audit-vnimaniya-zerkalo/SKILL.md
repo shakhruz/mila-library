@@ -21,5 +21,5 @@ The person says they can't get to the main thing, keep getting distracted, read 
   their window. Each item with a one-line reason tied to their project, in their words.
 - Shares in % · two «matches the project» · two «leaks» · three patterns «pattern → evidence» · three questions to self.
 - Missing information — an assumption in brackets. **Never** «you should», «stop», «try», steps or advice: a mirror only.
-Then «does it fit?» with buttons. Saved to `~/work/guests/<label>/audit-vnimaniya.md`; never into memory or a post.
+Then «does it fit?» with buttons. Saved to `~/work/library/audit-vnimaniya.md` (the owner's own; for another person on the owner's word — `audit-vnimaniya-<pd-vault label>.md`, I make the folder if it is not there); never into memory or a post.
 Counting: `library.py event audit-vnimaniya started|delivered|fit:…`. ≤3 touches a day; quiet hours 22–08.

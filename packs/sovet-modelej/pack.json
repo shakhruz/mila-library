@@ -10,9 +10,9 @@
  "category": "razminka",
  "free": true,
  "for_whom": {
-  "ru": "Если стоите перед решением и хотите услышать несколько разных взглядов до того, как выбрать",
-  "en": "If you face a decision and want several different views before you choose",
-  "uz": "Agar qaror oldida tursangiz va tanlashdan oldin bir necha xil fikrni eshitmoqchi bo‘lsangiz"
+  "ru": "Если стоите перед решением и хотите четыре разных взгляда на него — все четыре веду я сама, без других моделей",
+  "en": "If you face a decision and want four different views on it — all four are mine, no other models are called",
+  "uz": "Agar qaror oldida tursangiz va unga to‘rt xil nazar kerak bo‘lsa — to‘rttasini ham o‘zim yuritaman, boshqa modellarsiz"
  },
  "requires_core": "1.7.6",
  "core_skills": [

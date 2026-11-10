@@ -16,7 +16,7 @@ Offer once: «Хотите, я помогу собрать, что вам под
 ## Result — one message, as in SAMPLE.md
 «What I heard» (their words, three lines) → 2–3 directions, each with a reason quoted from what they said → one small
 experiment for the week. «A view to think about»: no tests, no diagnoses, no promises of income, no «you will definitely».
-Then «does this fit?» with buttons (obratnaya-svyaz). Saved to `~/work/guests/<label>/proforientatsiya.md` (pd-vault labels
+Then «does this fit?» with buttons (obratnaya-svyaz). Saved to `~/work/library/proforientatsiya.md` (the owner's own; for another person on the owner's word — `proforientatsiya-<pd-vault label>.md`, I make the folder if it is not there) (pd-vault labels
 for names and contacts); never into memory, a post or another person's chat.
 
 ## Limits

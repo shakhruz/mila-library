@@ -11,7 +11,7 @@ Free packs for [Mila Agent](https://github.com/shakhruz/mila-agent) — small se
 | `biznes-profil` — Business profile | You have a business and want Mila to know it as well as you do | business |
 | `proforientatsiya` — Career direction | You are not sure what to do, or are thinking of changing jobs | getting acquainted |
 | `audit-vnimaniya` — Attention audit | Your attention goes everywhere except your main project | warm-up |
-| `sovet-modelej` — Council of models | You face a decision and want several different views before you choose | warm-up |
+| `sovet-modelej` — Council of models | You face a decision and want four different views on it — all four voiced by Mila herself, no other models | warm-up |
 
 Every pack is text only: skills, a three-step tutorial and a sample result with an invented person. Nothing in a pack is executed on install.
 
@@ -52,7 +52,7 @@ Apache-2.0 — see [LICENSE](LICENSE). The packs `audit-vnimaniya` and `sovet-mo
 - **Бизнес-профиль** — если у вас есть дело и вы хотите, чтобы Мила знала его так же хорошо, как вы.
 - **Профориентация** — если вы не знаете, чем заняться, или думаете сменить работу.
 - **Аудит внимания** — если внимание расходится на всё, кроме главного дела.
-- **Совет моделей** — если стоите перед решением и хотите услышать несколько разных взглядов.
+- **Совет моделей** — если стоите перед решением и хотите четыре разных взгляда; все четыре ведёт сама Мила, без других моделей.
 
 Руками отсюда ничего ставить не нужно: спросите Милу «какие есть паки?». В паке только тексты — при установке ничего не исполняется. Каждый выпуск Mila Agent несёт сумму индекса библиотеки, индекс — суммы архивов, архив — суммы файлов; несовпадение — отказ.
 
@@ -65,7 +65,7 @@ Mila Agent uchun bepul paketlar — kichik koʻnikmalar toʻplami. Mila ularni b
 - **Biznes profili** — ishingiz boʻlsa va Mila uni siz kabi yaxshi bilishini xohlasangiz.
 - **Kasb tanlash** — nima bilan shugʻullanishni bilmasangiz yoki ishni almashtirmoqchi boʻlsangiz.
 - **Diqqat auditi** — diqqatingiz asosiy ishingizdan boshqa hamma narsaga ketayotgan boʻlsa.
-- **Modellar kengashi** — qaror oldida tursangiz va bir necha xil fikrni eshitmoqchi boʻlsangiz.
+- **Modellar kengashi** — qaror oldida tursangiz va toʻrt xil nazar kerak boʻlsa; toʻrttasini ham Milaning oʻzi yuritadi, boshqa modellarsiz.
 
 Bu yerdan qoʻlda hech narsa oʻrnatish shart emas: Miladan «qanday paketlar bor?» deb soʻrang. Paketda faqat matn bor — oʻrnatishda hech narsa ishga tushmaydi.
 
