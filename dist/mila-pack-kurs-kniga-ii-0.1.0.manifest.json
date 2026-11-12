@@ -1,0 +1,33 @@
+{
+ "format": 1,
+ "id": "kurs-kniga-ii",
+ "version": "0.1.0",
+ "title": {
+  "ru": "Курс по книге «ИИ. Руководство»",
+  "en": "Course on the book “AI: A Guide”",
+  "uz": "“Sun’iy intellekt. Qo‘llanma” kitobi bo‘yicha kurs"
+ },
+ "requires_core": "1.7.12",
+ "built_with_core": "1.7.10",
+ "core_skills": [
+  "obratnaya-svyaz"
+ ],
+ "first_tasks": {
+  "ru": [
+   "Откройте любой чат с искусственным интеллектом и попросите пять примеров, чем он поможет в вашем деле.",
+   "Выберите один пример и попросите сделать его сейчас.",
+   "Скажите мне, в какое время утром вам удобно получать задание дня."
+  ],
+  "en": [
+   "Open any chat with artificial intelligence and ask for five examples of how it can help in your work.",
+   "Pick one example and ask it to be done now.",
+   "Tell me what time in the morning suits you for the daily task."
+  ]
+ },
+ "files": {
+  "README.md": "27a436889d49448e6f12956cfc8109d941381e78db45dd70389910bb946f7150",
+  "SAMPLE.md": "beab49ca7768c16553a53879ac4cebb7420905f93449ba4c3efd4b897e483e56",
+  "TUTORIAL.md": "93bde3666f249011ffe9c62b368d58d933bf1c1141aee96a199665250124fad1",
+  "skills/kurs-kniga-ii-vedenie/SKILL.md": "f9e655772df3ba4cc179641aa855cd0e48c2134f431479ab4788543a04efdc58"
+ }
+}

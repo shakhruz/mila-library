@@ -1,5 +1,5 @@
 {
- "built": "2026-11-10",
+ "built": "2026-11-12",
  "packs": [
   {
    "archive": "dist/mila-pack-audit-vnimaniya-0.1.0.zip",
@@ -38,6 +38,26 @@
     "en": "Business profile",
     "ru": "Бизнес-профиль",
     "uz": "Biznes profili"
+   },
+   "version": "0.1.0"
+  },
+  {
+   "archive": "dist/mila-pack-kurs-kniga-ii-0.1.0.zip",
+   "category": "obrazovanie",
+   "for_whom": {
+    "en": "If you want to understand AI in a week and launch your own Mila",
+    "ru": "Если хотите за неделю разобраться в ИИ и запустить свою Милу",
+    "uz": "Agar bir haftada sun’iy intellektni tushunib, o‘z Milangizni ishga tushirmoqchi bo‘lsangiz"
+   },
+   "free": true,
+   "id": "kurs-kniga-ii",
+   "needs_packs": [],
+   "requires_core": "1.7.12",
+   "sha256": "f4d95133b5986f844d6190f891fcfbf8fa8e736c4bebf436029f8be50e72348b",
+   "title": {
+    "en": "Course on the book “AI: A Guide”",
+    "ru": "Курс по книге «ИИ. Руководство»",
+    "uz": "“Sun’iy intellekt. Qo‘llanma” kitobi bo‘yicha kurs"
    },
    "version": "0.1.0"
   },

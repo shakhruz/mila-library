@@ -1,0 +1,40 @@
+{
+ "id": "kurs-kniga-ii",
+ "kind": "addon",
+ "version": "0.1.0",
+ "title": {
+  "ru": "Курс по книге «ИИ. Руководство»",
+  "en": "Course on the book “AI: A Guide”",
+  "uz": "“Sun’iy intellekt. Qo‘llanma” kitobi bo‘yicha kurs"
+ },
+ "category": "obrazovanie",
+ "free": true,
+ "for_whom": {
+  "ru": "Если хотите за неделю разобраться в ИИ и запустить свою Милу",
+  "en": "If you want to understand AI in a week and launch your own Mila",
+  "uz": "Agar bir haftada sun’iy intellektni tushunib, o‘z Milangizni ishga tushirmoqchi bo‘lsangiz"
+ },
+ "requires_core": "1.7.12",
+ "core_skills": [
+  "obratnaya-svyaz"
+ ],
+ "skills": [
+  "kurs-kniga-ii-vedenie"
+ ],
+ "docs": [
+  "TUTORIAL.md",
+  "SAMPLE.md"
+ ],
+ "first_tasks": {
+  "ru": [
+   "Откройте любой чат с искусственным интеллектом и попросите пять примеров, чем он поможет в вашем деле.",
+   "Выберите один пример и попросите сделать его сейчас.",
+   "Скажите мне, в какое время утром вам удобно получать задание дня."
+  ],
+  "en": [
+   "Open any chat with artificial intelligence and ask for five examples of how it can help in your work.",
+   "Pick one example and ask it to be done now.",
+   "Tell me what time in the morning suits you for the daily task."
+  ]
+ }
+}
