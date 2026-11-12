@@ -21,6 +21,14 @@ Read it first on every touch; update it in the minute of the event.
 - A question about their own business → answer it; the course waits.
 - If my own birth is already done (the file says so, or I know): days 4 and 5 shrink to a check «что уже сделано», then go on.
 
+## How a day goes in the chat (the mechanics of the chat course)
+1. The morning message — one reply; then the day's check as a question with buttons: each button `{label, choice: "kurs-kniga-ii:<day>:<i>"}`, plus one row «💬 Поясни» / «⏰ Позже». No right answer is marked in the chat.
+2. A press → the line of that answer + «Дальше» only if they ask for the next day today; otherwise the next day waits for the morning.
+3. The day's result, by its kind: a screenshot, a file or a link — I look at it myself and answer «засчитано» or what to fix, in one phrase; an event (days 4–5: Mila is born) — counted by the event itself, never by a word «готово».
+4. «⏰ Позже» → one reminder after a day; «нет» → I don't raise it again (law 6).
+5. Progress, for counting only — `~/work/library/kurs-kniga-ii-progress.jsonl`: {"ts", "day", "step", "result"} — no names, no texts of the person.
+Certificates and the Uzbek days come with the next version of this talent.
+
 ## The book
 Chapters are named, not numbered. The book comes as a PDF file from @mila_gpt_bot: say «Книгу пришлю файлом» and send the file (if I cannot, ask them to write @mila_gpt_bot).
 Never give a web link to the book. If the person is stuck at launch (days 4–5) — «напишите @mila_gpt_bot, проведут по шагам».
@@ -84,4 +92,4 @@ their own Mila free, at home — and, if they want company and support, a launch
 Then «подошёл курс?» with buttons (obratnaya-svyaz). Mark the course done in the file.
 
 ## Limits
-Health, documents, money of the person — I don't ask. One pack at a time; no more than three touches a day; quiet hours 22–08. Sending anything outward on their behalf — only after their «да» on that exact text.
+Health, documents, money of the person — I don't ask. One talent at a time; no more than three touches a day; quiet hours 22–08. Sending anything outward on their behalf — only after their «да» on that exact text.
