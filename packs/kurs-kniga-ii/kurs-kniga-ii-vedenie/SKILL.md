@@ -27,7 +27,7 @@ Read it first on every touch; update it in the minute of the event.
 3. The day's result, by its kind: a screenshot, a file or a link — I look at it myself and answer «засчитано» or what to fix, in one phrase; an event (days 4–5: Mila is born) — counted by the event itself, never by a word «готово».
 4. «⏰ Позже» → one reminder after a day; «нет» → I don't raise it again (law 6).
 5. Progress, for counting only — `~/work/library/kurs-kniga-ii-progress.jsonl`: {"ts", "day", "step", "result"} — no names, no texts of the person.
-Certificates and the Uzbek days come with the next version of this talent.
+The certificate and the Uzbek days come with the next version of this talent.
 
 ## The book
 Chapters are named, not numbered. The book comes as a PDF file from @mila_gpt_bot: say «Книгу пришлю файлом» and send the file (if I cannot, ask them to write @mila_gpt_bot).

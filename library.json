@@ -53,7 +53,7 @@
    "id": "kurs-kniga-ii",
    "needs_packs": [],
    "requires_core": "1.7.12",
-   "sha256": "f490ce767712aabe090782a0254bb301fcb604fd1df9f9f22f1f0b17d8e4eae3",
+   "sha256": "d40eb61a975cd5cd2ab5d493955e7f471c21d84636a1b8dbf4d47a53fb61049d",
    "title": {
     "en": "Course on the book “AI: A Guide”",
     "ru": "Курс по книге «ИИ. Руководство»",
